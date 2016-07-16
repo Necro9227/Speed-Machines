@@ -1,0 +1,48 @@
+Need to fix Burner Auger entity sprite animation sprite being off center
+
+super assembler:
+use standard assembling machine 2 details and stats but with higher; speed, power consumption, pollution module slots and ingredient slots.
+
+super smelter:
+use electric furnace data but faster slightly more expencive more polluting.., more of everything.
+
+burner auger: essentially what the burner mining drill is. 
+original idea was for it to collect and keep the items it mined in an internal inventory rather than outputting 
+and to keep at least 10 pieces of coal in the fuel slot
+so essentiall having a net gain after the 10th piece was collected.
+
+ --[[testing results find that 1 piece of raw wood in a burner-mining-drill produces 3 coal]]--
+ --[[the auger will produce 44 that combining the mining power, mining speed and fuel efficiency]]--
+
+Compressed coal: by pressing together some of coal you can get a piece with the equivilent fuel value of 10 coal (80MJ)
+
+coal block: by compressing even further with the total value of 400 coal we get fuel with a value of 320MJ thats higher than rocket fuel.
+
+Ball bearing: added because i wanted an item similar to gears to put into machines to help them run faster.
+
+
+
+Yet to be implimented./?
+
+entities:
+
+air filter (will use filters which have durability )
+
+advanced-chemical-plant (a lean, mean, chemical crafting machine,)
+
+compressor: thought about adding a compressor to compact items into condenced forms such as coal into compressed/block/diamond.
+
+Pollution attractor: would draw pollution from nearby grids to the grid the attractor is located and away from alien nests
+(to be used in conjuction with pollution filters to keep the air around your base clean)
+
+Fluid: while using the idea of ball bearings i though about using a chemical plant to melt down the iron into molten iron
+which then would be cast into shape in an assembling machine or something. (makes sense right?)
+
+Items:
+pollution filter (for use in the air filter gui, will use its durability bar and will need replacing once run out)
+
+Mods Compatibility: use other mod items such as bobs mods to change recipies to include their items as well.
+such as compressing 20 coal blocks = (8000 coal) into a diamond from bobs resorces-gems
+
+Technology:
+Air filtration: allows crafting of the air filter and pollution filters to clean the air.
