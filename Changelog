@@ -1,0 +1,10 @@
+
+0.0.1: Initial release
+adds a total of 6 items; 
+
+Super smelter: An electric furnace with a crafting speed of 8
+Super assembler: An assembling machine that can hold upto 8 ingredients and a speed also of 8
+Burner Auger: A faster more fuel efficient Burner mining drill
+Ball bearing(s): An intermediet crafting component used in machine recipies.
+Compressed coal: Raw material crafted from coal and can produce 80MJ
+Coal Block: Raw material crafted from compressed coal and can produce 320MJ (rocket fuel is only 225MJ)
