@@ -1,4 +1,4 @@
-0.0.2:
+V0.0.2:
 
 Fix: Fixed "Burner Auger" sprite being misaligned causeing derpy animations and being half in the next grid when facing east.
 Change: Reduced polution emissions by a considerable amount - no more triple digits
@@ -10,7 +10,7 @@ Change: The Technology "Automation Super" now requires "Advanced Mining" as a pr
 
 ------------------------
 
-0.0.1: Initial release
+V0.0.1: Initial release
 
 adds a total of 6 items; 
 
