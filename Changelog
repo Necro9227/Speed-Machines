@@ -1,5 +1,17 @@
+0.0.2:
+
+Fix: Fixed "Burner Auger" sprite being misaligned causeing derpy animations and being half in the next grid when facing east.
+Change: Reduced polution emissions by a considerable amount - no more triple digits
+Change: Changed the "Ball Bearing" recipe from a chemical plant recipe to standard crafting
+Change: Reduced crafting time of "Ball Bearing" to 8 seconds.
+Change: "Compressed coal" is now avaliable without research.
+Change: "Coal Block" is now unlocked earler with the "Advanced Mining" instead of "Automation super"
+Change: The Technology "Automation Super" now requires "Advanced Mining" as a prerequisite for research
+
+------------------------
 
 0.0.1: Initial release
+
 adds a total of 6 items; 
 
 Super smelter: An electric furnace with a crafting speed of 8
