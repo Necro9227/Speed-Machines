@@ -1,0 +1,8 @@
+require("prototypes.item.items")
+require("prototypes.entity.entities")
+require("prototypes.recipes.recipes")
+require("prototypes.technology.technology")
+require("prototypes.entity.air-purifier")
+require("prototypes.fluids.fluids")
+require("prototypes.recipes.recipe-category")
+require("prototypes.recipes.fluid-recipe")
